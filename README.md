@@ -30,8 +30,9 @@ Este é um projeto de **Gerenciamento de Tarefas** desenvolvido como parte dos m
 Aqui estão algumas imagens do sistema em funcionamento:
 
 <p align="center">
-  <img src="./screenshots/dashboard.png" width="45%" alt="Dashboard">
+  <img src="./screenshots/tasks.png" width="45%" alt="Dashboard">
   <img src="./screenshots/login.png" width="45%" alt="Login">
+  <img src="./screenshots/categorys.png" width="45%" alt="Login">
 </p>
 
 ## 🛠️ Tecnologias Utilizadas
